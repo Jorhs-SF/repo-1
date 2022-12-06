@@ -1,6 +1,6 @@
 # uC1_2022_Silva_Jorhs
 
-*Curso:* Microcontroladores I
+***Curso:*** Microcontroladores I
 
 ***Autor:*** Jorhs Giampier Silva Flores
 
