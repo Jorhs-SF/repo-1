@@ -9,4 +9,3 @@
 ***Entorno:*** MPLAB X IDE
 
 ***Lenguaje:*** AMS - C
-linea de prueba
