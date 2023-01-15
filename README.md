@@ -22,3 +22,4 @@
 	> Corrimientos de leds Par e Impar
 - P2-Display_7SEG        
 	> Display 7segmentos (0-9 y A-F)
+ 
