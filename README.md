@@ -20,5 +20,5 @@
 	> Libreria de Retardos
 - P1-Corrimiento_Leds    
 	> Corrimientos de leds Par e Impar
-- 2-Display_7SEG        
+- P2-Display_7SEG        
 	> Display 7segmentos (0-9 y A-F)
