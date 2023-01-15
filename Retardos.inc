@@ -1,7 +1,7 @@
 PSECT udata_acs
 contador1:  DS 1	    ;reserva 1 byte en acces ram
 contador2:  DS 1 
-;123456789    
+   
 PSECT code  
  
 Delay_Loop:
